@@ -2,7 +2,7 @@
 
 ## 📸 Dashboard Preview
 
-![Formula 1 Dashboard](dashboard.png)
+![Formula 1 Dashboard](assets/dashboard.png)
 
 ## 📌 Project Overview
 
