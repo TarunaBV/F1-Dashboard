@@ -57,7 +57,7 @@ Donut chart representing the distribution of Formula 1 nationalities.
 
 ## 🗂 Dataset Used
 
-The dashboard was built using Formula 1 historical datasets containing:
+The dashboard was built using Formula 1 historical datasets(1950 - 2024) containing:
 
 ### Drivers
 
